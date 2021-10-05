@@ -1,0 +1,1706 @@
+[
+  {
+    "date": "2004-01-01",
+    "javaScript": 36,
+    "python": 6,
+    "cSharp": 12,
+    "java": 93,
+    "php": 46
+  },
+  {
+    "date": "2004-02-01",
+    "javaScript": 39,
+    "python": 6,
+    "cSharp": 13,
+    "java": 100,
+    "php": 47
+  },
+  {
+    "date": "2004-03-01",
+    "javaScript": 38,
+    "python": 6,
+    "cSharp": 13,
+    "java": 98,
+    "php": 46
+  },
+  {
+    "date": "2004-04-01",
+    "javaScript": 37,
+    "python": 6,
+    "cSharp": 14,
+    "java": 97,
+    "php": 47
+  },
+  {
+    "date": "2004-05-01",
+    "javaScript": 34,
+    "python": 6,
+    "cSharp": 14,
+    "java": 92,
+    "php": 46
+  },
+  {
+    "date": "2004-06-01",
+    "javaScript": 35,
+    "python": 6,
+    "cSharp": 14,
+    "java": 94,
+    "php": 46
+  },
+  {
+    "date": "2004-07-01",
+    "javaScript": 36,
+    "python": 6,
+    "cSharp": 15,
+    "java": 91,
+    "php": 48
+  },
+  {
+    "date": "2004-08-01",
+    "javaScript": 35,
+    "python": 7,
+    "cSharp": 16,
+    "java": 91,
+    "php": 48
+  },
+  {
+    "date": "2004-09-01",
+    "javaScript": 33,
+    "python": 6,
+    "cSharp": 15,
+    "java": 90,
+    "php": 45
+  },
+  {
+    "date": "2004-10-01",
+    "javaScript": 31,
+    "python": 6,
+    "cSharp": 14,
+    "java": 91,
+    "php": 43
+  },
+  {
+    "date": "2004-11-01",
+    "javaScript": 31,
+    "python": 5,
+    "cSharp": 14,
+    "java": 87,
+    "php": 42
+  },
+  {
+    "date": "2004-12-01",
+    "javaScript": 30,
+    "python": 5,
+    "cSharp": 14,
+    "java": 85,
+    "php": 42
+  },
+  {
+    "date": "2005-01-01",
+    "javaScript": 30,
+    "python": 6,
+    "cSharp": 13,
+    "java": 84,
+    "php": 44
+  },
+  {
+    "date": "2005-02-01",
+    "javaScript": 30,
+    "python": 5,
+    "cSharp": 15,
+    "java": 85,
+    "php": 44
+  },
+  {
+    "date": "2005-03-01",
+    "javaScript": 30,
+    "python": 6,
+    "cSharp": 15,
+    "java": 85,
+    "php": 44
+  },
+  {
+    "date": "2005-04-01",
+    "javaScript": 29,
+    "python": 5,
+    "cSharp": 15,
+    "java": 84,
+    "php": 42
+  },
+  {
+    "date": "2005-05-01",
+    "javaScript": 28,
+    "python": 6,
+    "cSharp": 15,
+    "java": 82,
+    "php": 41
+  },
+  {
+    "date": "2005-06-01",
+    "javaScript": 30,
+    "python": 6,
+    "cSharp": 15,
+    "java": 81,
+    "php": 43
+  },
+  {
+    "date": "2005-07-01",
+    "javaScript": 30,
+    "python": 6,
+    "cSharp": 15,
+    "java": 77,
+    "php": 42
+  },
+  {
+    "date": "2005-08-01",
+    "javaScript": 28,
+    "python": 6,
+    "cSharp": 15,
+    "java": 71,
+    "php": 41
+  },
+  {
+    "date": "2005-09-01",
+    "javaScript": 28,
+    "python": 5,
+    "cSharp": 15,
+    "java": 71,
+    "php": 41
+  },
+  {
+    "date": "2005-10-01",
+    "javaScript": 28,
+    "python": 6,
+    "cSharp": 15,
+    "java": 77,
+    "php": 40
+  },
+  {
+    "date": "2005-11-01",
+    "javaScript": 27,
+    "python": 6,
+    "cSharp": 14,
+    "java": 73,
+    "php": 39
+  },
+  {
+    "date": "2005-12-01",
+    "javaScript": 27,
+    "python": 5,
+    "cSharp": 14,
+    "java": 71,
+    "php": 37
+  },
+  {
+    "date": "2006-01-01",
+    "javaScript": 26,
+    "python": 5,
+    "cSharp": 14,
+    "java": 68,
+    "php": 39
+  },
+  {
+    "date": "2006-02-01",
+    "javaScript": 27,
+    "python": 5,
+    "cSharp": 15,
+    "java": 71,
+    "php": 40
+  },
+  {
+    "date": "2006-03-01",
+    "javaScript": 26,
+    "python": 5,
+    "cSharp": 15,
+    "java": 68,
+    "php": 38
+  },
+  {
+    "date": "2006-04-01",
+    "javaScript": 25,
+    "python": 5,
+    "cSharp": 15,
+    "java": 66,
+    "php": 38
+  },
+  {
+    "date": "2006-05-01",
+    "javaScript": 26,
+    "python": 5,
+    "cSharp": 15,
+    "java": 66,
+    "php": 36
+  },
+  {
+    "date": "2006-06-01",
+    "javaScript": 25,
+    "python": 5,
+    "cSharp": 15,
+    "java": 64,
+    "php": 36
+  },
+  {
+    "date": "2006-07-01",
+    "javaScript": 24,
+    "python": 6,
+    "cSharp": 14,
+    "java": 59,
+    "php": 36
+  },
+  {
+    "date": "2006-08-01",
+    "javaScript": 25,
+    "python": 5,
+    "cSharp": 14,
+    "java": 60,
+    "php": 35
+  },
+  {
+    "date": "2006-09-01",
+    "javaScript": 24,
+    "python": 6,
+    "cSharp": 14,
+    "java": 59,
+    "php": 34
+  },
+  {
+    "date": "2006-10-01",
+    "javaScript": 24,
+    "python": 5,
+    "cSharp": 14,
+    "java": 60,
+    "php": 34
+  },
+  {
+    "date": "2006-11-01",
+    "javaScript": 24,
+    "python": 5,
+    "cSharp": 14,
+    "java": 61,
+    "php": 34
+  },
+  {
+    "date": "2006-12-01",
+    "javaScript": 22,
+    "python": 5,
+    "cSharp": 12,
+    "java": 58,
+    "php": 32
+  },
+  {
+    "date": "2007-01-01",
+    "javaScript": 22,
+    "python": 5,
+    "cSharp": 13,
+    "java": 58,
+    "php": 32
+  },
+  {
+    "date": "2007-02-01",
+    "javaScript": 22,
+    "python": 5,
+    "cSharp": 13,
+    "java": 58,
+    "php": 33
+  },
+  {
+    "date": "2007-03-01",
+    "javaScript": 23,
+    "python": 5,
+    "cSharp": 14,
+    "java": 58,
+    "php": 33
+  },
+  {
+    "date": "2007-04-01",
+    "javaScript": 22,
+    "python": 5,
+    "cSharp": 13,
+    "java": 57,
+    "php": 32
+  },
+  {
+    "date": "2007-05-01",
+    "javaScript": 22,
+    "python": 5,
+    "cSharp": 14,
+    "java": 58,
+    "php": 32
+  },
+  {
+    "date": "2007-06-01",
+    "javaScript": 21,
+    "python": 5,
+    "cSharp": 14,
+    "java": 55,
+    "php": 32
+  },
+  {
+    "date": "2007-07-01",
+    "javaScript": 22,
+    "python": 5,
+    "cSharp": 14,
+    "java": 54,
+    "php": 31
+  },
+  {
+    "date": "2007-08-01",
+    "javaScript": 22,
+    "python": 5,
+    "cSharp": 14,
+    "java": 54,
+    "php": 30
+  },
+  {
+    "date": "2007-09-01",
+    "javaScript": 21,
+    "python": 5,
+    "cSharp": 13,
+    "java": 52,
+    "php": 30
+  },
+  {
+    "date": "2007-10-01",
+    "javaScript": 22,
+    "python": 5,
+    "cSharp": 14,
+    "java": 56,
+    "php": 30
+  },
+  {
+    "date": "2007-11-01",
+    "javaScript": 21,
+    "python": 5,
+    "cSharp": 14,
+    "java": 57,
+    "php": 30
+  },
+  {
+    "date": "2007-12-01",
+    "javaScript": 20,
+    "python": 5,
+    "cSharp": 13,
+    "java": 50,
+    "php": 27
+  },
+  {
+    "date": "2008-01-01",
+    "javaScript": 20,
+    "python": 5,
+    "cSharp": 13,
+    "java": 48,
+    "php": 26
+  },
+  {
+    "date": "2008-02-01",
+    "javaScript": 19,
+    "python": 5,
+    "cSharp": 13,
+    "java": 49,
+    "php": 27
+  },
+  {
+    "date": "2008-03-01",
+    "javaScript": 20,
+    "python": 5,
+    "cSharp": 14,
+    "java": 51,
+    "php": 27
+  },
+  {
+    "date": "2008-04-01",
+    "javaScript": 20,
+    "python": 5,
+    "cSharp": 14,
+    "java": 51,
+    "php": 27
+  },
+  {
+    "date": "2008-05-01",
+    "javaScript": 19,
+    "python": 5,
+    "cSharp": 13,
+    "java": 49,
+    "php": 26
+  },
+  {
+    "date": "2008-06-01",
+    "javaScript": 20,
+    "python": 5,
+    "cSharp": 14,
+    "java": 48,
+    "php": 26
+  },
+  {
+    "date": "2008-07-01",
+    "javaScript": 20,
+    "python": 5,
+    "cSharp": 14,
+    "java": 49,
+    "php": 26
+  },
+  {
+    "date": "2008-08-01",
+    "javaScript": 19,
+    "python": 5,
+    "cSharp": 13,
+    "java": 45,
+    "php": 25
+  },
+  {
+    "date": "2008-09-01",
+    "javaScript": 20,
+    "python": 5,
+    "cSharp": 14,
+    "java": 49,
+    "php": 25
+  },
+  {
+    "date": "2008-10-01",
+    "javaScript": 18,
+    "python": 5,
+    "cSharp": 13,
+    "java": 47,
+    "php": 24
+  },
+  {
+    "date": "2008-11-01",
+    "javaScript": 18,
+    "python": 5,
+    "cSharp": 13,
+    "java": 46,
+    "php": 24
+  },
+  {
+    "date": "2008-12-01",
+    "javaScript": 18,
+    "python": 5,
+    "cSharp": 12,
+    "java": 46,
+    "php": 23
+  },
+  {
+    "date": "2009-01-01",
+    "javaScript": 17,
+    "python": 5,
+    "cSharp": 11,
+    "java": 45,
+    "php": 23
+  },
+  {
+    "date": "2009-02-01",
+    "javaScript": 18,
+    "python": 5,
+    "cSharp": 13,
+    "java": 47,
+    "php": 25
+  },
+  {
+    "date": "2009-03-01",
+    "javaScript": 19,
+    "python": 5,
+    "cSharp": 13,
+    "java": 47,
+    "php": 25
+  },
+  {
+    "date": "2009-04-01",
+    "javaScript": 18,
+    "python": 5,
+    "cSharp": 12,
+    "java": 47,
+    "php": 24
+  },
+  {
+    "date": "2009-05-01",
+    "javaScript": 17,
+    "python": 5,
+    "cSharp": 12,
+    "java": 43,
+    "php": 23
+  },
+  {
+    "date": "2009-06-01",
+    "javaScript": 18,
+    "python": 5,
+    "cSharp": 12,
+    "java": 42,
+    "php": 24
+  },
+  {
+    "date": "2009-07-01",
+    "javaScript": 18,
+    "python": 5,
+    "cSharp": 12,
+    "java": 40,
+    "php": 24
+  },
+  {
+    "date": "2009-08-01",
+    "javaScript": 17,
+    "python": 5,
+    "cSharp": 11,
+    "java": 39,
+    "php": 23
+  },
+  {
+    "date": "2009-09-01",
+    "javaScript": 16,
+    "python": 5,
+    "cSharp": 11,
+    "java": 41,
+    "php": 22
+  },
+  {
+    "date": "2009-10-01",
+    "javaScript": 16,
+    "python": 5,
+    "cSharp": 11,
+    "java": 41,
+    "php": 22
+  },
+  {
+    "date": "2009-11-01",
+    "javaScript": 16,
+    "python": 5,
+    "cSharp": 11,
+    "java": 43,
+    "php": 22
+  },
+  {
+    "date": "2009-12-01",
+    "javaScript": 15,
+    "python": 5,
+    "cSharp": 10,
+    "java": 39,
+    "php": 20
+  },
+  {
+    "date": "2010-01-01",
+    "javaScript": 15,
+    "python": 5,
+    "cSharp": 10,
+    "java": 39,
+    "php": 21
+  },
+  {
+    "date": "2010-02-01",
+    "javaScript": 16,
+    "python": 5,
+    "cSharp": 10,
+    "java": 40,
+    "php": 22
+  },
+  {
+    "date": "2010-03-01",
+    "javaScript": 17,
+    "python": 5,
+    "cSharp": 12,
+    "java": 40,
+    "php": 23
+  },
+  {
+    "date": "2010-04-01",
+    "javaScript": 16,
+    "python": 5,
+    "cSharp": 11,
+    "java": 41,
+    "php": 22
+  },
+  {
+    "date": "2010-05-01",
+    "javaScript": 15,
+    "python": 5,
+    "cSharp": 11,
+    "java": 39,
+    "php": 22
+  },
+  {
+    "date": "2010-06-01",
+    "javaScript": 15,
+    "python": 5,
+    "cSharp": 11,
+    "java": 36,
+    "php": 21
+  },
+  {
+    "date": "2010-07-01",
+    "javaScript": 14,
+    "python": 5,
+    "cSharp": 10,
+    "java": 35,
+    "php": 19
+  },
+  {
+    "date": "2010-08-01",
+    "javaScript": 14,
+    "python": 5,
+    "cSharp": 10,
+    "java": 36,
+    "php": 19
+  },
+  {
+    "date": "2010-09-01",
+    "javaScript": 14,
+    "python": 5,
+    "cSharp": 10,
+    "java": 37,
+    "php": 19
+  },
+  {
+    "date": "2010-10-01",
+    "javaScript": 14,
+    "python": 5,
+    "cSharp": 10,
+    "java": 38,
+    "php": 18
+  },
+  {
+    "date": "2010-11-01",
+    "javaScript": 14,
+    "python": 5,
+    "cSharp": 10,
+    "java": 38,
+    "php": 19
+  },
+  {
+    "date": "2010-12-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 9,
+    "java": 34,
+    "php": 18
+  },
+  {
+    "date": "2011-01-01",
+    "javaScript": 12,
+    "python": 5,
+    "cSharp": 9,
+    "java": 34,
+    "php": 18
+  },
+  {
+    "date": "2011-02-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 9,
+    "java": 36,
+    "php": 18
+  },
+  {
+    "date": "2011-03-01",
+    "javaScript": 14,
+    "python": 5,
+    "cSharp": 9,
+    "java": 37,
+    "php": 19
+  },
+  {
+    "date": "2011-04-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 9,
+    "java": 35,
+    "php": 19
+  },
+  {
+    "date": "2011-05-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 9,
+    "java": 35,
+    "php": 18
+  },
+  {
+    "date": "2011-06-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 9,
+    "java": 34,
+    "php": 18
+  },
+  {
+    "date": "2011-07-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 8,
+    "java": 34,
+    "php": 17
+  },
+  {
+    "date": "2011-08-01",
+    "javaScript": 14,
+    "python": 5,
+    "cSharp": 8,
+    "java": 34,
+    "php": 17
+  },
+  {
+    "date": "2011-09-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 8,
+    "java": 37,
+    "php": 16
+  },
+  {
+    "date": "2011-10-01",
+    "javaScript": 12,
+    "python": 5,
+    "cSharp": 8,
+    "java": 36,
+    "php": 16
+  },
+  {
+    "date": "2011-11-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 9,
+    "java": 38,
+    "php": 18
+  },
+  {
+    "date": "2011-12-01",
+    "javaScript": 12,
+    "python": 5,
+    "cSharp": 8,
+    "java": 35,
+    "php": 15
+  },
+  {
+    "date": "2012-01-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 8,
+    "java": 34,
+    "php": 15
+  },
+  {
+    "date": "2012-02-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 9,
+    "java": 36,
+    "php": 17
+  },
+  {
+    "date": "2012-03-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 9,
+    "java": 36,
+    "php": 17
+  },
+  {
+    "date": "2012-04-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 9,
+    "java": 36,
+    "php": 16
+  },
+  {
+    "date": "2012-05-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 10,
+    "java": 34,
+    "php": 16
+  },
+  {
+    "date": "2012-06-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 9,
+    "java": 33,
+    "php": 16
+  },
+  {
+    "date": "2012-07-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 10,
+    "java": 34,
+    "php": 15
+  },
+  {
+    "date": "2012-08-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 9,
+    "java": 35,
+    "php": 14
+  },
+  {
+    "date": "2012-09-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 9,
+    "java": 37,
+    "php": 15
+  },
+  {
+    "date": "2012-10-01",
+    "javaScript": 13,
+    "python": 5,
+    "cSharp": 9,
+    "java": 35,
+    "php": 15
+  },
+  {
+    "date": "2012-11-01",
+    "javaScript": 12,
+    "python": 5,
+    "cSharp": 9,
+    "java": 34,
+    "php": 14
+  },
+  {
+    "date": "2012-12-01",
+    "javaScript": 11,
+    "python": 5,
+    "cSharp": 8,
+    "java": 33,
+    "php": 13
+  },
+  {
+    "date": "2013-01-01",
+    "javaScript": 12,
+    "python": 5,
+    "cSharp": 9,
+    "java": 38,
+    "php": 14
+  },
+  {
+    "date": "2013-02-01",
+    "javaScript": 12,
+    "python": 6,
+    "cSharp": 9,
+    "java": 38,
+    "php": 14
+  },
+  {
+    "date": "2013-03-01",
+    "javaScript": 12,
+    "python": 6,
+    "cSharp": 9,
+    "java": 38,
+    "php": 14
+  },
+  {
+    "date": "2013-04-01",
+    "javaScript": 13,
+    "python": 6,
+    "cSharp": 9,
+    "java": 37,
+    "php": 14
+  },
+  {
+    "date": "2013-05-01",
+    "javaScript": 13,
+    "python": 6,
+    "cSharp": 9,
+    "java": 37,
+    "php": 14
+  },
+  {
+    "date": "2013-06-01",
+    "javaScript": 12,
+    "python": 5,
+    "cSharp": 9,
+    "java": 36,
+    "php": 14
+  },
+  {
+    "date": "2013-07-01",
+    "javaScript": 13,
+    "python": 6,
+    "cSharp": 9,
+    "java": 35,
+    "php": 13
+  },
+  {
+    "date": "2013-08-01",
+    "javaScript": 12,
+    "python": 6,
+    "cSharp": 8,
+    "java": 34,
+    "php": 13
+  },
+  {
+    "date": "2013-09-01",
+    "javaScript": 12,
+    "python": 6,
+    "cSharp": 9,
+    "java": 35,
+    "php": 13
+  },
+  {
+    "date": "2013-10-01",
+    "javaScript": 13,
+    "python": 7,
+    "cSharp": 9,
+    "java": 39,
+    "php": 14
+  },
+  {
+    "date": "2013-11-01",
+    "javaScript": 13,
+    "python": 7,
+    "cSharp": 9,
+    "java": 35,
+    "php": 13
+  },
+  {
+    "date": "2013-12-01",
+    "javaScript": 12,
+    "python": 6,
+    "cSharp": 8,
+    "java": 34,
+    "php": 12
+  },
+  {
+    "date": "2014-01-01",
+    "javaScript": 12,
+    "python": 6,
+    "cSharp": 9,
+    "java": 38,
+    "php": 12
+  },
+  {
+    "date": "2014-02-01",
+    "javaScript": 13,
+    "python": 6,
+    "cSharp": 9,
+    "java": 37,
+    "php": 14
+  },
+  {
+    "date": "2014-03-01",
+    "javaScript": 13,
+    "python": 7,
+    "cSharp": 9,
+    "java": 35,
+    "php": 13
+  },
+  {
+    "date": "2014-04-01",
+    "javaScript": 13,
+    "python": 7,
+    "cSharp": 9,
+    "java": 36,
+    "php": 13
+  },
+  {
+    "date": "2014-05-01",
+    "javaScript": 13,
+    "python": 6,
+    "cSharp": 9,
+    "java": 35,
+    "php": 13
+  },
+  {
+    "date": "2014-06-01",
+    "javaScript": 12,
+    "python": 6,
+    "cSharp": 9,
+    "java": 33,
+    "php": 12
+  },
+  {
+    "date": "2014-07-01",
+    "javaScript": 13,
+    "python": 6,
+    "cSharp": 9,
+    "java": 35,
+    "php": 13
+  },
+  {
+    "date": "2014-08-01",
+    "javaScript": 12,
+    "python": 6,
+    "cSharp": 8,
+    "java": 33,
+    "php": 12
+  },
+  {
+    "date": "2014-09-01",
+    "javaScript": 12,
+    "python": 7,
+    "cSharp": 9,
+    "java": 35,
+    "php": 13
+  },
+  {
+    "date": "2014-10-01",
+    "javaScript": 12,
+    "python": 7,
+    "cSharp": 9,
+    "java": 36,
+    "php": 12
+  },
+  {
+    "date": "2014-11-01",
+    "javaScript": 12,
+    "python": 7,
+    "cSharp": 9,
+    "java": 35,
+    "php": 12
+  },
+  {
+    "date": "2014-12-01",
+    "javaScript": 12,
+    "python": 6,
+    "cSharp": 8,
+    "java": 31,
+    "php": 11
+  },
+  {
+    "date": "2015-01-01",
+    "javaScript": 12,
+    "python": 7,
+    "cSharp": 8,
+    "java": 32,
+    "php": 11
+  },
+  {
+    "date": "2015-02-01",
+    "javaScript": 13,
+    "python": 7,
+    "cSharp": 9,
+    "java": 33,
+    "php": 12
+  },
+  {
+    "date": "2015-03-01",
+    "javaScript": 13,
+    "python": 7,
+    "cSharp": 9,
+    "java": 33,
+    "php": 12
+  },
+  {
+    "date": "2015-04-01",
+    "javaScript": 13,
+    "python": 7,
+    "cSharp": 9,
+    "java": 34,
+    "php": 12
+  },
+  {
+    "date": "2015-05-01",
+    "javaScript": 12,
+    "python": 7,
+    "cSharp": 8,
+    "java": 30,
+    "php": 11
+  },
+  {
+    "date": "2015-06-01",
+    "javaScript": 13,
+    "python": 7,
+    "cSharp": 9,
+    "java": 30,
+    "php": 11
+  },
+  {
+    "date": "2015-07-01",
+    "javaScript": 13,
+    "python": 7,
+    "cSharp": 8,
+    "java": 29,
+    "php": 11
+  },
+  {
+    "date": "2015-08-01",
+    "javaScript": 12,
+    "python": 7,
+    "cSharp": 8,
+    "java": 28,
+    "php": 10
+  },
+  {
+    "date": "2015-09-01",
+    "javaScript": 12,
+    "python": 8,
+    "cSharp": 8,
+    "java": 29,
+    "php": 11
+  },
+  {
+    "date": "2015-10-01",
+    "javaScript": 13,
+    "python": 8,
+    "cSharp": 9,
+    "java": 30,
+    "php": 12
+  },
+  {
+    "date": "2015-11-01",
+    "javaScript": 12,
+    "python": 8,
+    "cSharp": 8,
+    "java": 28,
+    "php": 11
+  },
+  {
+    "date": "2015-12-01",
+    "javaScript": 12,
+    "python": 8,
+    "cSharp": 8,
+    "java": 26,
+    "php": 11
+  },
+  {
+    "date": "2016-01-01",
+    "javaScript": 12,
+    "python": 8,
+    "cSharp": 8,
+    "java": 24,
+    "php": 11
+  },
+  {
+    "date": "2016-02-01",
+    "javaScript": 13,
+    "python": 9,
+    "cSharp": 9,
+    "java": 25,
+    "php": 12
+  },
+  {
+    "date": "2016-03-01",
+    "javaScript": 13,
+    "python": 10,
+    "cSharp": 9,
+    "java": 26,
+    "php": 12
+  },
+  {
+    "date": "2016-04-01",
+    "javaScript": 13,
+    "python": 10,
+    "cSharp": 9,
+    "java": 25,
+    "php": 11
+  },
+  {
+    "date": "2016-05-01",
+    "javaScript": 14,
+    "python": 9,
+    "cSharp": 9,
+    "java": 24,
+    "php": 11
+  },
+  {
+    "date": "2016-06-01",
+    "javaScript": 14,
+    "python": 10,
+    "cSharp": 9,
+    "java": 24,
+    "php": 11
+  },
+  {
+    "date": "2016-07-01",
+    "javaScript": 12,
+    "python": 9,
+    "cSharp": 8,
+    "java": 22,
+    "php": 10
+  },
+  {
+    "date": "2016-08-01",
+    "javaScript": 13,
+    "python": 9,
+    "cSharp": 8,
+    "java": 21,
+    "php": 10
+  },
+  {
+    "date": "2016-09-01",
+    "javaScript": 13,
+    "python": 10,
+    "cSharp": 9,
+    "java": 23,
+    "php": 10
+  },
+  {
+    "date": "2016-10-01",
+    "javaScript": 13,
+    "python": 10,
+    "cSharp": 8,
+    "java": 22,
+    "php": 10
+  },
+  {
+    "date": "2016-11-01",
+    "javaScript": 14,
+    "python": 11,
+    "cSharp": 9,
+    "java": 22,
+    "php": 11
+  },
+  {
+    "date": "2016-12-01",
+    "javaScript": 13,
+    "python": 10,
+    "cSharp": 8,
+    "java": 21,
+    "php": 10
+  },
+  {
+    "date": "2017-01-01",
+    "javaScript": 13,
+    "python": 11,
+    "cSharp": 8,
+    "java": 22,
+    "php": 11
+  },
+  {
+    "date": "2017-02-01",
+    "javaScript": 15,
+    "python": 13,
+    "cSharp": 9,
+    "java": 23,
+    "php": 11
+  },
+  {
+    "date": "2017-03-01",
+    "javaScript": 16,
+    "python": 13,
+    "cSharp": 10,
+    "java": 24,
+    "php": 11
+  },
+  {
+    "date": "2017-04-01",
+    "javaScript": 14,
+    "python": 12,
+    "cSharp": 9,
+    "java": 22,
+    "php": 11
+  },
+  {
+    "date": "2017-05-01",
+    "javaScript": 14,
+    "python": 12,
+    "cSharp": 9,
+    "java": 21,
+    "php": 10
+  },
+  {
+    "date": "2017-06-01",
+    "javaScript": 14,
+    "python": 12,
+    "cSharp": 8,
+    "java": 20,
+    "php": 10
+  },
+  {
+    "date": "2017-07-01",
+    "javaScript": 13,
+    "python": 11,
+    "cSharp": 8,
+    "java": 19,
+    "php": 9
+  },
+  {
+    "date": "2017-08-01",
+    "javaScript": 13,
+    "python": 12,
+    "cSharp": 8,
+    "java": 19,
+    "php": 9
+  },
+  {
+    "date": "2017-09-01",
+    "javaScript": 14,
+    "python": 13,
+    "cSharp": 8,
+    "java": 20,
+    "php": 9
+  },
+  {
+    "date": "2017-10-01",
+    "javaScript": 14,
+    "python": 14,
+    "cSharp": 8,
+    "java": 20,
+    "php": 9
+  },
+  {
+    "date": "2017-11-01",
+    "javaScript": 15,
+    "python": 15,
+    "cSharp": 9,
+    "java": 21,
+    "php": 10
+  },
+  {
+    "date": "2017-12-01",
+    "javaScript": 12,
+    "python": 12,
+    "cSharp": 7,
+    "java": 18,
+    "php": 8
+  },
+  {
+    "date": "2018-01-01",
+    "javaScript": 13,
+    "python": 13,
+    "cSharp": 8,
+    "java": 18,
+    "php": 9
+  },
+  {
+    "date": "2018-02-01",
+    "javaScript": 14,
+    "python": 14,
+    "cSharp": 8,
+    "java": 19,
+    "php": 9
+  },
+  {
+    "date": "2018-03-01",
+    "javaScript": 14,
+    "python": 15,
+    "cSharp": 8,
+    "java": 20,
+    "php": 9
+  },
+  {
+    "date": "2018-04-01",
+    "javaScript": 14,
+    "python": 14,
+    "cSharp": 8,
+    "java": 19,
+    "php": 9
+  },
+  {
+    "date": "2018-05-01",
+    "javaScript": 14,
+    "python": 14,
+    "cSharp": 8,
+    "java": 19,
+    "php": 8
+  },
+  {
+    "date": "2018-06-01",
+    "javaScript": 13,
+    "python": 14,
+    "cSharp": 7,
+    "java": 17,
+    "php": 8
+  },
+  {
+    "date": "2018-07-01",
+    "javaScript": 13,
+    "python": 14,
+    "cSharp": 7,
+    "java": 18,
+    "php": 8
+  },
+  {
+    "date": "2018-08-01",
+    "javaScript": 13,
+    "python": 14,
+    "cSharp": 7,
+    "java": 17,
+    "php": 8
+  },
+  {
+    "date": "2018-09-01",
+    "javaScript": 12,
+    "python": 15,
+    "cSharp": 7,
+    "java": 17,
+    "php": 8
+  },
+  {
+    "date": "2018-10-01",
+    "javaScript": 13,
+    "python": 16,
+    "cSharp": 8,
+    "java": 19,
+    "php": 8
+  },
+  {
+    "date": "2018-11-01",
+    "javaScript": 13,
+    "python": 16,
+    "cSharp": 7,
+    "java": 17,
+    "php": 8
+  },
+  {
+    "date": "2018-12-01",
+    "javaScript": 11,
+    "python": 14,
+    "cSharp": 6,
+    "java": 15,
+    "php": 7
+  },
+  {
+    "date": "2019-01-01",
+    "javaScript": 12,
+    "python": 15,
+    "cSharp": 7,
+    "java": 16,
+    "php": 7
+  },
+  {
+    "date": "2019-02-01",
+    "javaScript": 13,
+    "python": 16,
+    "cSharp": 7,
+    "java": 17,
+    "php": 7
+  },
+  {
+    "date": "2019-03-01",
+    "javaScript": 13,
+    "python": 16,
+    "cSharp": 7,
+    "java": 16,
+    "php": 7
+  },
+  {
+    "date": "2019-04-01",
+    "javaScript": 13,
+    "python": 17,
+    "cSharp": 7,
+    "java": 17,
+    "php": 7
+  },
+  {
+    "date": "2019-05-01",
+    "javaScript": 13,
+    "python": 16,
+    "cSharp": 7,
+    "java": 16,
+    "php": 7
+  },
+  {
+    "date": "2019-06-01",
+    "javaScript": 13,
+    "python": 17,
+    "cSharp": 7,
+    "java": 15,
+    "php": 7
+  },
+  {
+    "date": "2019-07-01",
+    "javaScript": 13,
+    "python": 17,
+    "cSharp": 7,
+    "java": 16,
+    "php": 7
+  },
+  {
+    "date": "2019-08-01",
+    "javaScript": 13,
+    "python": 17,
+    "cSharp": 7,
+    "java": 15,
+    "php": 6
+  },
+  {
+    "date": "2019-09-01",
+    "javaScript": 13,
+    "python": 18,
+    "cSharp": 7,
+    "java": 17,
+    "php": 7
+  },
+  {
+    "date": "2019-10-01",
+    "javaScript": 13,
+    "python": 19,
+    "cSharp": 7,
+    "java": 17,
+    "php": 7
+  },
+  {
+    "date": "2019-11-01",
+    "javaScript": 13,
+    "python": 18,
+    "cSharp": 7,
+    "java": 16,
+    "php": 7
+  },
+  {
+    "date": "2019-12-01",
+    "javaScript": 11,
+    "python": 16,
+    "cSharp": 6,
+    "java": 14,
+    "php": 6
+  },
+  {
+    "date": "2020-01-01",
+    "javaScript": 12,
+    "python": 17,
+    "cSharp": 6,
+    "java": 15,
+    "php": 6
+  },
+  {
+    "date": "2020-02-01",
+    "javaScript": 13,
+    "python": 20,
+    "cSharp": 7,
+    "java": 16,
+    "php": 7
+  },
+  {
+    "date": "2020-03-01",
+    "javaScript": 12,
+    "python": 18,
+    "cSharp": 6,
+    "java": 14,
+    "php": 6
+  },
+  {
+    "date": "2020-04-01",
+    "javaScript": 13,
+    "python": 19,
+    "cSharp": 6,
+    "java": 14,
+    "php": 6
+  },
+  {
+    "date": "2020-05-01",
+    "javaScript": 12,
+    "python": 18,
+    "cSharp": 5,
+    "java": 13,
+    "php": 6
+  },
+  {
+    "date": "2020-06-01",
+    "javaScript": 13,
+    "python": 18,
+    "cSharp": 6,
+    "java": 13,
+    "php": 6
+  },
+  {
+    "date": "2020-07-01",
+    "javaScript": 13,
+    "python": 18,
+    "cSharp": 6,
+    "java": 13,
+    "php": 6
+  },
+  {
+    "date": "2020-08-01",
+    "javaScript": 12,
+    "python": 18,
+    "cSharp": 6,
+    "java": 13,
+    "php": 6
+  },
+  {
+    "date": "2020-09-01",
+    "javaScript": 12,
+    "python": 19,
+    "cSharp": 6,
+    "java": 14,
+    "php": 6
+  },
+  {
+    "date": "2020-10-01",
+    "javaScript": 10,
+    "python": 16,
+    "cSharp": 5,
+    "java": 12,
+    "php": 5
+  },
+  {
+    "date": "2020-11-01",
+    "javaScript": 9,
+    "python": 15,
+    "cSharp": 5,
+    "java": 11,
+    "php": 4
+  },
+  {
+    "date": "2020-12-01",
+    "javaScript": 9,
+    "python": 14,
+    "cSharp": 5,
+    "java": 11,
+    "php": 4
+  },
+  {
+    "date": "2021-01-01",
+    "javaScript": 9,
+    "python": 14,
+    "cSharp": 4,
+    "java": 11,
+    "php": 4
+  },
+  {
+    "date": "2021-02-01",
+    "javaScript": 10,
+    "python": 15,
+    "cSharp": 5,
+    "java": 12,
+    "php": 5
+  },
+  {
+    "date": "2021-03-01",
+    "javaScript": 10,
+    "python": 17,
+    "cSharp": 5,
+    "java": 13,
+    "php": 5
+  },
+  {
+    "date": "2021-04-01",
+    "javaScript": 10,
+    "python": 16,
+    "cSharp": 5,
+    "java": 11,
+    "php": 5
+  },
+  {
+    "date": "2021-05-01",
+    "javaScript": 10,
+    "python": 15,
+    "cSharp": 5,
+    "java": 12,
+    "php": 4
+  },
+  {
+    "date": "2021-06-01",
+    "javaScript": 10,
+    "python": 15,
+    "cSharp": 5,
+    "java": 11,
+    "php": 4
+  },
+  {
+    "date": "2021-07-01",
+    "javaScript": 10,
+    "python": 15,
+    "cSharp": 5,
+    "java": 11,
+    "php": 4
+  },
+  {
+    "date": "2021-08-01",
+    "javaScript": 9,
+    "python": 14,
+    "cSharp": 5,
+    "java": 11,
+    "php": 4
+  },
+  {
+    "date": "2021-09-01",
+    "javaScript": 10,
+    "python": 16,
+    "cSharp": 5,
+    "java": 12,
+    "php": 4
+  }
+]
